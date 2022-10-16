@@ -5,4 +5,4 @@ This product can be used to identify <b><i>XSS & SQLi Vulnerabilities</b></i> on
 <br>But at the moment we have the 1st sample of the <b><i>XSS Vulnerability</b></i> Scanner 
 
 
-<br><br><br>Developed by: <b><i>Senesh Wijayarathne & Anodya Garusinghe</b></i>
+<br><br>Developed by: <b><i>Senesh Wijayarathne & Anodya Garusinghe</b></i>
