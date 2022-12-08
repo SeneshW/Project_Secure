@@ -1,2 +1,0 @@
-https://xss-game.appspot.com/level1/frame - With forms
-https://xss-game.appspot.com/level5/frame - No forms
