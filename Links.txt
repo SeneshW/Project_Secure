@@ -1,0 +1,5 @@
+SQLi - http://testphp.vulnweb.com/artists.php?artist=1 (Vul)
+SQLi - https://facebook.com/ (Not Vul)
+
+XSS - https://xss-game.appspot.com/level1/frame (Vul)
+XSS - https://facebook.com/ (Not Vul)
